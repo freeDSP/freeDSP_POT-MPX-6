@@ -18,8 +18,6 @@ https://github.com/freeDSP/freeDSP_POT-MPX-6/wiki
 Discussion Forum:<br /> 
  [https://www.diyaudio.com/community/threads/want-more-control-pots-on-adau1701.421803/#post-7898919)](https://www.diyaudio.com/community/threads/want-more-control-pots-on-adau1701.421803/)
 
-Project Web-page:(Yandex Machine Translation)<br/>
- [Weblio Machine Translation](https://translate.weblio.jp/web/english?lp=&url=https%3A%2F%2Fcyberpithilo.web.fc2.com%2Faudio%2Ffreedsp%2Fpot_mpx6.html&sentenceStyle=spoken)
 
-Original Japanese Project Page<br/>
+Original Project Page (Japanese )<br/>
 [https://cyberpithilo.web.fc2.com/audio/freedsp/pot_mpx6.html](https://cyberpithilo.web.fc2.com/audio/freedsp/pot_mpx6.html)
