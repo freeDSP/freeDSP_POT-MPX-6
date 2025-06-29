@@ -1,9 +1,9 @@
 # freeDSP_POT-MPX-6
-A number of POTs expander-board for FreeDSP Classic SMD A/B  
+A number of POTs expander-board for [FreeDSP Classic SMD A/B](https://github.com/CyberPit/FreeDSP-FreeDSP_SMD_AB)  
 ![FreeDSP POT MPX-6 Photo](https://github.com/freeDSP/freeDSP_POT-MPX-6/blob/main/SOURCES/IMAGES/TopView.jpg?raw=true)  
 Version 0.2 is the latest commit.  
 
-  An ADAU1701 has only four AUXADC. Sometimes, we need more capability of real-time control when using POTs. So this project enables the use of double the number of POTs utilizing this board. A "POT MPX-6" board is intended to be used with FreeDSP Classic SMD A/B. Of course, you can connect with your ADAU1701 board if you can use a GPIO for switching the Analog Switch.  
+  An ADAU1701 has only four AUXADC. Sometimes, we need more capability for real-time control when using POTs. So this project enables double the number of POTs utilizing this board. A "POT MPX-6" board is intended to be used with FreeDSP Classic SMD A/B. Of course, you can connect with your ADAU1701 board using a GPIO to switch the analog switch.  
 
 ## Features:
 * ADAU1701/1401 DSP Compatible.
